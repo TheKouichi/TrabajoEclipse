@@ -1,5 +1,5 @@
 // FUNCIONA
-package AmorIvan;
+
 
 public class Ejercicio3Figura 
 {
